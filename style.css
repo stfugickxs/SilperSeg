@@ -1,0 +1,20 @@
+body {
+background-color: rgb(73, 64, 64);
+}
+
+.p {
+    color: rgb(17, 16, 15);
+    font-size: 60px;
+}
+
+
+@media (max-width:768px) {
+    .tudodiv1{
+     display: flex;
+    flex-wrap: wrap;
+  }
+    .div1{
+     width: 50%;
+    }
+}
+
